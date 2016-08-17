@@ -15,7 +15,7 @@
 #do
 #	sleep 180
 #done
-sleep 600
+sleep 900
 ##pull files from repo  
 wget https://trendmicrop2p.blob.core.windows.net/trendmicropushtopilot/files/validatorkey.txt  -O /tmp/validatorkey.txt
 wget https://trendmicrop2p.blob.core.windows.net/trendmicropushtopilot/files/userkey.txt -O /tmp/userkey.txt
